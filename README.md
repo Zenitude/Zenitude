@@ -3,11 +3,11 @@ Bonjour à tous, je suis Rudy. Mes [portfolio](https://zenitude.github.io/portfo
 Hello everyone, I'm Rudy. My [portfolio](https://zenitude.github.io/portfolio/) and [cv](https://zenitude.github.io/mycv/)
 
 ## Actuellement / Currently
-Je suis actuellement en formation de 8 mois et Web Développeur et Web Mobile avec le GRETA de Cambrai.
+Je suis actuellement en formation Développeur Web et Web Mobile avec le GRETA de Cambrai.
 
 Je me forme également avec Openclassroom et l'École du Web.
 
-I am currently in training 8 months Web Developer and Web Mobile with the GRETA of Cambrai.
+I am currently in training Web Developer and Web Mobile with the GRETA of Cambrai.
 
 I also train with Openclassroom and École du Web.
 
