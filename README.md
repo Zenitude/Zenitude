@@ -1,6 +1,7 @@
 Bonjour à tous, je suis Rudy.
 Hello everyone, I'm Rudy.
 
+## Actuellement / Currently
 Je suis actuellement en formation de 8 mois et Web Développeur et Web Mobile avec le GRETA de Cambrai.
 
 Je me forme également avec Openclassroom et l'École du Web.
@@ -9,12 +10,13 @@ I am currently in training 8 months Web Developer and Web Mobile with the GRETA 
 
 I also train with Openclassroom and École du Web.
 
+## Réseaux sociaux / Social Networks
 Retrouvez-moi sur / Find me on :
 <p>
 <a href="https://www.linkedin.com/in/rudy-mollet/" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="5%"></a>
 </p>
 
-Langages et outils utilisés / Languages and tools used: 
+## Langages et outils utilisés / Languages and tools used: 
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="5%">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="5%"> 
@@ -31,6 +33,8 @@ Langages et outils utilisés / Languages and tools used:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="5%">
 <img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" width="5%">
 </p>
+
+## Mes statistiques Github / My Github statistics
 
 [![Les statistiques Github de Zenitude](https://github-readme-stats.vercel.app/api?username=Zenitude)](https://github.com/Zenitude/github-readme-stats&theme=dark)
 
