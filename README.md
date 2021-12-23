@@ -7,7 +7,7 @@ Je suis actuellement en formation Développeur Web et Web Mobile avec le GRETA d
 
 Je me forme également avec Openclassroom et l'École du Web.
 
-I am currently in training Web Developer and Web Mobile with the GRETA of Cambrai.
+I am currently in training Web and Web Mobile Developer with the GRETA of Cambrai.
 
 I also train with Openclassroom and École du Web.
 
