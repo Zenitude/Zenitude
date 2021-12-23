@@ -7,4 +7,3 @@ Je me forme également via Openclassroom et l'École du Web.
 > I also train via Openclassroom and Web School.
 
 [![Les statistiques Github de Zenitude](https://github-readme-stats.vercel.app/api?username=Zenitude)](https://github.com/Zenitude/github-readme-stats&theme=dark)
-)
