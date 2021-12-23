@@ -6,4 +6,5 @@ Je me forme également via Openclassroom et l'École du Web.
 > I am currently in training 8 months Web Developer and Web Mobile with the GRETA of Cambrai.
 > I also train via Openclassroom and Web School.
 
-[![Les statistiques Github de Zenitude](https://github-readme-stats.vercel.app/api?username=Zenitude)](https://github.com/Zenitude/github-readme-stats)
+[![Les statistiques Github de Zenitude](https://github-readme-stats.vercel.app/api?username=Zenitude)](https://github.com/Zenitude/github-readme-stats&theme=dark)
+)
