@@ -1,5 +1,5 @@
 Bonjour à tous, je suis Rudy.
-| Hello everyone, I'm Rudy.
+> Hello everyone, I'm Rudy.
 
 Je suis actuellement en Formation de 9 mois et Web Développeur et Web Mobile avec le GRETA de Cambrai.
 Je me forme également via Openclassroom et l'École du Web.
