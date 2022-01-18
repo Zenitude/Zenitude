@@ -14,7 +14,7 @@ I also train with Openclassroom and École du Web.
 ## Réseaux sociaux / Social Networks
 Retrouvez-moi sur / Find me on :
 <p>
-<a href="https://www.linkedin.com/in/rudy-mollet/" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="5%"></a>
+<a href="https://www.linkedin.com/in/rudy-mollet/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="5%"></a>
 </p>
 
 ## Langages et outils utilisés / Languages and tools used: 
