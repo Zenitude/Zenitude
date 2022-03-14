@@ -38,6 +38,8 @@ Retrouvez-moi sur / Find me on :
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="7%" alt="MySql">
 <img src="https://digitheo.fr/technobelt/gitlogo.png" width="7%" alt="Git">
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="7%" alt="Github">
+<img src="https://balsamiq.com/assets/company/brandassets/smileyface-transparent-1080x1080.png" width="7%" alt="Balsamiq Wireframes">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="7%" alt="Figma">
 </p>
 
 ## Mes statistiques Github / My Github statistics
