@@ -35,7 +35,7 @@ Retrouvez-moi sur / Find me on :
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" width="5%" alt="Windows 10"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2048px-Logo-ubuntu_cof-orange-hex.svg.png" width="5%" alt="Ubuntu"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="5%" alt="Visual Studio Code">
-<img src="http://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" width="5%" alt="Git">
+<img src="https://digitheo.fr/technobelt/gitlogo.png" width="5%" alt="Git">
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" alt="Github">
 </p>
 
