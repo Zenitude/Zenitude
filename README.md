@@ -1,6 +1,6 @@
-Bonjour à tous, je suis Rudy. Mes [portfolio](https://zenitude.github.io/portfolio/) et [cv](https://zenitude.github.io/mycv/)
+Bonjour à tous, je suis Rudy.
 
-Hello everyone, I'm Rudy. My [portfolio](https://zenitude.github.io/portfolio/) and [cv](https://zenitude.github.io/mycv/)
+Hello everyone, I'm Rudy.
 
 ## Actuellement / Currently
 Je suis actuellement en formation Développeur Web et Web Mobile avec le GRETA de Cambrai.
