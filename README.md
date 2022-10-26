@@ -3,13 +3,13 @@ Bonjour à tous, je suis Rudy.
 Hello everyone, I'm Rudy.
 
 ## Actuellement / Currently
-Je suis actuellement en formation Développeur Web et Web Mobile avec le GRETA de Cambrai.
+Je suis actuellement formateur HTML, CSS et Bootstrap pour le titre Développeur Web et Web Mobile au GRETA de Cambrai.
 
-Je me forme également avec Openclassroom et l'École du Web.
+Je me forme actuellement à l'apprentissage de React.
 
-I am currently in training Web and Web Mobile Developer with the GRETA of Cambrai.
+I am currently an HTML, CSS and Bootstrap trainer for the title Web and Web Mobile Developer at GRETA in Cambrai.
 
-I also train with Openclassroom and École du Web.
+I am currently training to learn React.
 
 ## Réseaux sociaux / Social Networks
 Retrouvez-moi sur / Find me on :
@@ -28,6 +28,7 @@ Retrouvez-moi sur / Find me on :
 <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="7%" alt="PHP">
 <img src="https://jcd-formation.fr/wp-content/uploads/2021/06/sql.png" width="7%" alt="SQL">
 <img src="https://www.scottbrady91.com/img/logos/dart.svg" width="7%" alt="Dart">
+<img src="https://blog.jeremylandon.com/images/logo/flutter.png" width="7%" alt="Flutter">
   
 </p>
 <p>
