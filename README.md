@@ -3,11 +3,11 @@ Bonjour à tous, je suis Rudy.
 Hello everyone, I'm Rudy.
 
 ## Actuellement / Currently
-Je suis actuellement formateur HTML, CSS, Bootstrap et PHP pour le titre Développeur Web et Web Mobile au GRETA de Cambrai.
+Je suis actuellement formateur pour le titre Développeur Web et Web Mobile au GRETA de Cambrai.
 
 Je me forme en parallèle à React.
 
-I am currently an HTML, CSS, Bootstrap and PHP trainer for the title Web and Web Mobile Developer at GRETA in Cambrai.
+I am currently a trainer for the title Web and Mobile Developer at GRETA in Cambrai.
 
 I’m training in parallel with React.
 
