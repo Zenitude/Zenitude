@@ -24,7 +24,7 @@ Retrouvez-moi sur / Find me on :
 <img src="https://brandeps.com/icon-download/T/Typescript-icon-vector-02.svg" width="7%" alt="Langage TypeScript">
 <img src="https://github.com/Zenitude/Zenitude/assets/91132260/458ba8e8-a4ad-4217-9cd8-f0268a168297" width="7%" alt="React">
 <img src="https://vitejs.dev/logo-with-shadow.png" width="7%" alt="Vite">
-<img src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png" width="7%" alt="styled-components">
+<img src="https://miro.medium.com/v2/resize:fit:480/1*Iohnw2aOQ5EBghVoqKA7VA.png" width="7%" alt="styled-components">
 </p>
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="7%" alt="Windows 10">
