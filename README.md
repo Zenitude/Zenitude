@@ -44,7 +44,7 @@ Retrouvez-moi sur / Find me on :
 <img src="https://shadowblood.gallerycdn.vsassets.io/extensions/shadowblood/tailwind-moon/3.0.2/1673948732518/Microsoft.VisualStudio.Services.Icons.Default" width="7%" alt="Tailwind">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="7%" alt="Sass">
 <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="7%" alt="PHP">
-<img src="https://jcd-formation.fr/wp-content/uploads/2021/06/sql.png" width="7%" alt="SQL">
+<img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-file-icon-0.png" width="7%" alt="SQL">
 <img src="https://www.scottbrady91.com/img/logos/dart.svg" width="7%" alt="Dart">
 <img src="https://blog.jeremylandon.com/images/logo/flutter.png" width="7%" alt="Flutter">
 </p>
@@ -57,6 +57,6 @@ Retrouvez-moi sur / Find me on :
 
 
 ## Mes statistiques Github / My Github statistics
-
 [![Les statistiques Github de Zenitude](https://github-readme-stats.vercel.app/api?username=Zenitude)](https://github.com/Zenitude/github-readme-stats&theme=dark)
+
 
