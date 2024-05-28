@@ -11,11 +11,11 @@ Je me forme actuellement à Next and React Native.
 
 
 
-I am currently looking for a job in web development.
+``I am currently looking for a job in web development.``
 
-Previously I was a trainer for the title Web Developer and Mobile Web at GRETA in Cambrai.
+``Previously I was a trainer for the title Web Developer and Mobile Web at GRETA in Cambrai.``
 
-I am training in Next and React Native.
+``I am training in Next and React Native.``
 
 ## Réseaux sociaux / Social Networks
 Retrouvez-moi sur / Find me on :
