@@ -9,6 +9,8 @@ Précédemment j'étais formateur pour le titre Développeur Web et Web Mobile a
 
 Je me forme actuellement à Next and React Native.
 
+
+
 I am currently looking for a job in web development.
 
 Previously I was a trainer for the title Web Developer and Mobile Web at GRETA in Cambrai.
