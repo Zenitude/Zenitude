@@ -3,13 +3,15 @@ Bonjour à tous, je suis Rudy.
 Hello everyone, I'm Rudy.
 
 ## Actuellement / Currently
-Je suis actuellement formateur pour le titre Développeur Web et Web Mobile au GRETA de Cambrai.
+Je suis actuellement à la recherche d'un emploi dans le développement web
+Précédemment j'étais formateur pour le titre Développeur Web et Web Mobile au GRETA de Cambrai.
 
-Je me forme en parallèle à React.
+Je me forme actuellement à Next and React Native.
 
-I am currently a trainer for the title Web and Mobile Developer at GRETA in Cambrai.
+I am currently looking for a job in web development.
+Previously I was a trainer for the title Web Developer and Mobile Web at GRETA in Cambrai.
 
-I’m training in parallel with React.
+I am training in Next and React Native.
 
 ## Réseaux sociaux / Social Networks
 Retrouvez-moi sur / Find me on :
@@ -25,6 +27,10 @@ Retrouvez-moi sur / Find me on :
 <img src="https://github.com/Zenitude/Zenitude/assets/91132260/458ba8e8-a4ad-4217-9cd8-f0268a168297" width="7%" alt="React">
 <img src="https://vitejs.dev/logo-with-shadow.png" width="7%" alt="Vite">
 <img src="https://miro.medium.com/v2/resize:fit:480/1*Iohnw2aOQ5EBghVoqKA7VA.png" width="7%" alt="styled-components">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="7%" alt="node">
+<img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" width="7%" alt="express">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-2-1175137.png" width="7%" alt="mongodb">
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="7%" alt="MySql">
 </p>
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="7%" alt="Windows 10">
@@ -51,7 +57,6 @@ Retrouvez-moi sur / Find me on :
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2048px-Logo-ubuntu_cof-orange-hex.svg.png" width="7%" alt="Ubuntu"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" width="7%" alt="PhpMyAdmin">
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="7%" alt="MySql">
 <img src="https://balsamiq.com/assets/company/brandassets/smileyface-transparent-1080x1080.png" width="7%" alt="Balsamiq Wireframes">
 </p>
 
