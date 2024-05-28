@@ -4,11 +4,13 @@ Hello everyone, I'm Rudy.
 
 ## Actuellement / Currently
 Je suis actuellement à la recherche d'un emploi dans le développement web
+
 Précédemment j'étais formateur pour le titre Développeur Web et Web Mobile au GRETA de Cambrai.
 
 Je me forme actuellement à Next and React Native.
 
 I am currently looking for a job in web development.
+
 Previously I was a trainer for the title Web Developer and Mobile Web at GRETA in Cambrai.
 
 I am training in Next and React Native.
