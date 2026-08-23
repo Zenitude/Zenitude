@@ -14,7 +14,7 @@ Retrouvez-moi sur / ``Find me on`` :
 </p>
 
 
-## Langages et outils utilisés actuellement / Languages and tools currently used :
+## Langages et outils utilisés actuellement / ``Languages and tools currently used`` :
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="7%" alt="Framework Next.js" style="background:#fff;">
 <img src="https://brandeps.com/icon-download/T/Typescript-icon-vector-02.svg" width="7%" alt="TypeScript">
@@ -31,11 +31,12 @@ Retrouvez-moi sur / ``Find me on`` :
 </p>
 
 
-## Autres langages et outils déjà utilisés / Other languages and tools already used : 
+## Autres langages et outils déjà utilisés / ``Other languages and tools already used`` : 
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="7%" alt="HTML">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="7%" alt="CSS">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="7%" alt="JavaScript">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" width="7%" alt="Python">
 <img src="https://www.scottbrady91.com/img/logos/dart.svg" width="7%" alt="Dart">
 <img src="https://blog.jeremylandon.com/images/logo/flutter.png" width="7%" alt="Flutter">
 <img src="https://github.com/Zenitude/Zenitude/assets/91132260/458ba8e8-a4ad-4217-9cd8-f0268a168297" width="7%" alt="React">
