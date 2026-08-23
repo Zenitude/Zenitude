@@ -1,6 +1,6 @@
 Bonjour à tous, je suis Rudy.
 
-Hello everyone, I'm Rudy.
+``Hello everyone, I'm Rudy.``
 
 ## Actuellement / Currently
 Je me forme actuellement au Langage C.
@@ -8,7 +8,7 @@ Je me forme actuellement au Langage C.
 ``I'm currently training in C Language.``
 
 ## Réseaux sociaux / Social Networks
-Retrouvez-moi sur / Find me on :
+Retrouvez-moi sur / ``Find me on`` :
 <p>
   <a href="https://github.com/Zenitude"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="7%" alt="Github"></a>
 </p>
