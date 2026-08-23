@@ -58,9 +58,3 @@ Retrouvez-moi sur / Find me on :
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" width="7%" alt="PhpMyAdmin">
 <img src="https://cdn.prod.website-files.com/6198a2e43048192ebafec2cc/6240d37e4a6353ffabef6647_61df1988f95f93af9c44bd13_61c9edb1d34d667b08817fff_balsamiq.jpeg" width="7%" alt="Balsamiq Wireframes">
 </p>
-
-
-## Mes statistiques Github / My Github statistics
-[![Les statistiques Github de Zenitude](https://github-readme-stats.vercel.app/api?username=Zenitude)](https://github.com/Zenitude/github-readme-stats&theme=dark)
-
-
